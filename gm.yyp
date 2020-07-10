@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0d953d42-a0af-4d65-a07c-5ab75dc1093f",
+            "Value": {
+                "id": "1c66c119-f004-4fbc-8939-af651bc9fdf7",
+                "resourcePath": "sprites\\taskbar\\taskbar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1014345c-e1ac-4878-ba7b-fae6ade80dec",
             "Value": {
                 "id": "c676e706-90bb-460b-9595-ad8013741620",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "a56e9098-5f7c-48a9-b2de-2850496afc7c",
+            "Value": {
+                "id": "79278a0b-b4c4-41aa-94bf-cfd9f9addcfc",
+                "resourcePath": "sprites\\taskbut_pressed\\taskbut_pressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "02bfe7b0-21c4-420e-ac62-95b0ad2cde99",
@@ -164,6 +180,14 @@
                 "id": "4001fb4a-fcf6-4759-8bb2-06352e1bc4ce",
                 "resourcePath": "views\\e32bb204-630c-45e4-8952-34e38e60d125.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ece2d0b3-afd1-4d46-bdda-97aefccb92dc",
+            "Value": {
+                "id": "a5cc8877-d6db-4186-973b-57ab1d5bc056",
+                "resourcePath": "sprites\\taskbut_unpressed\\taskbut_unpressed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
