@@ -2,7 +2,7 @@
     "id": "0d953d42-a0af-4d65-a07c-5ab75dc1093f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "taskbar",
+    "name": "taskbar_s",
     "For3D": false,
     "HTile": false,
     "VTile": false,
