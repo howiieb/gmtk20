@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0c9cd1f9-616a-4ed0-bc7e-a4cf5c05f876",
+            "Value": {
+                "id": "7988226c-6c88-48f3-bf96-2131d4d70bc1",
+                "resourcePath": "objects\\playfield_o\\playfield_o.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0d953d42-a0af-4d65-a07c-5ab75dc1093f",
+            "Value": {
+                "id": "1c66c119-f004-4fbc-8939-af651bc9fdf7",
+                "resourcePath": "sprites\\taskbar_s\\taskbar_s.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1014345c-e1ac-4878-ba7b-fae6ade80dec",
             "Value": {
                 "id": "c676e706-90bb-460b-9595-ad8013741620",
@@ -87,6 +103,14 @@
             }
         },
         {
+            "Key": "7c48734d-e795-4a76-931b-40d62b6b2c55",
+            "Value": {
+                "id": "e6e7e336-2b3b-4420-b2c5-56fb2873e62f",
+                "resourcePath": "objects\\taskbar_o\\taskbar_o.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7dadfff6-fb95-4c40-9168-8c42eb16d9b5",
             "Value": {
                 "id": "94baa429-1ac4-456a-939d-56cde60e1d8b",
@@ -119,11 +143,35 @@
             }
         },
         {
+            "Key": "a56e9098-5f7c-48a9-b2de-2850496afc7c",
+            "Value": {
+                "id": "79278a0b-b4c4-41aa-94bf-cfd9f9addcfc",
+                "resourcePath": "sprites\\taskbut_pressed\\taskbut_pressed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "02bfe7b0-21c4-420e-ac62-95b0ad2cde99",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b2f88b45-1d3a-428e-b460-e4991d56df4e",
+            "Value": {
+                "id": "cebdbc74-cf38-4fb6-b683-a858aa693e0d",
+                "resourcePath": "objects\\gameManager\\gameManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba8e8409-aae3-4afe-89a0-6dec18d6bed5",
+            "Value": {
+                "id": "bbf0c532-c8f1-459a-8eec-7c71a81804fd",
+                "resourcePath": "objects\\taskbar_app\\taskbar_app.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,11 +207,27 @@
             }
         },
         {
+            "Key": "e0f8db41-e315-46bd-98bc-04db75ded626",
+            "Value": {
+                "id": "57529cb6-9d50-4a35-9d2e-d3ae196cbdb3",
+                "resourcePath": "sprites\\playfield_s\\playfield_s.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e32bb204-630c-45e4-8952-34e38e60d125",
             "Value": {
                 "id": "4001fb4a-fcf6-4759-8bb2-06352e1bc4ce",
                 "resourcePath": "views\\e32bb204-630c-45e4-8952-34e38e60d125.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ece2d0b3-afd1-4d46-bdda-97aefccb92dc",
+            "Value": {
+                "id": "a5cc8877-d6db-4186-973b-57ab1d5bc056",
+                "resourcePath": "sprites\\taskbut_unpressed\\taskbut_unpressed.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -178,7 +242,7 @@
             "Key": "f25cb723-59ff-49bc-9d49-52fd0775ef78",
             "Value": {
                 "id": "6f008cdb-9bee-46d6-9a16-e88e483c7c71",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\game\\game.yy",
                 "resourceType": "GMRoom"
             }
         },
