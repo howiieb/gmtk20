@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "ba8e8409-aae3-4afe-89a0-6dec18d6bed5",
+            "Value": {
+                "id": "bbf0c532-c8f1-459a-8eec-7c71a81804fd",
+                "resourcePath": "objects\\taskbar_app\\taskbar_app.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "caa4b3fa-d6dc-4dfe-b0a8-cc8fbd684aa0",
             "Value": {
                 "id": "a7b3ff99-8a99-489a-8fc2-511b5ba9177e",
