@@ -5,5 +5,3 @@ if(gameManager.appsOpen[appId]){
 else{
 	draw_sprite(taskbut_unpressed,0,x,y);
 }
-
-draw_text(x,y,name);
