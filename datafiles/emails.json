@@ -1,0 +1,28 @@
+{
+  "emails": [
+    {
+      "id": "0",
+      "button": "Print",
+      "spam": "0",
+      "text": "Oh my god! So yesterday my hamster got out of its cage and I thought I had lost it forever! We had to search around the ENTIRE house! At two in the morning we heard it behind the sofa eating some cheese puffs we must have dropped back there. Anyway, can you print this document for me?"
+    },
+    {
+      "id": "1",
+      "button": "Schedule meeting",
+      "spam": "0",
+      "text": "Hi there, it's your boss here. As you will all know, my two year old son drew a stunning picture of a spider yesterday. I'm incredibly proud of it, and am scheduling a meeting in order to show all of you. Please RSVP."
+    },
+    {
+      "id": "2",
+      "button": "Back on Patreon",
+      "spam": "2",
+      "text": "Whenever a designer makes a game, they will have certain ideas for what would be the most enjoyable or interesting way for a player to approach things. For example, Jake Solomon reckons that XCOM is at its best when the player is taking risks. He told Rock Paper Shotgun: \"Risks are what lead to loss and what lead to triumph\". But players will often have other ideas, because many will simply gravitate towards strategies."
+    },
+    {
+      "id": "3",
+      "spam": "1",
+      "button": "Pay fee",
+      "text": "Greetings my esteemed individual. I am from the Combined Trust fund of the Kingdom of Nigeria. I am going to die and have decided to entrust my wealth with you, so that you may do good things while I am departed from this world. I can pay you the 10 million dollars of wealth I have accumulated if you pay the processing fee for the transaction. Be quick about it! Thanks."
+    }
+  ]
+}
