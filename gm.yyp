@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "10c33d42-7f05-4018-bbef-bb1deb98ef78",
+            "Value": {
+                "id": "02dee1f6-d21e-4b61-b734-2aabbb2a7be7",
+                "resourcePath": "objects\\email_actButton\\email_actButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "110807a2-c864-4f1c-ad0c-7398c9e93c2e",
             "Value": {
                 "id": "64397af2-4220-41ad-ac50-b51ad02718c2",
@@ -327,11 +335,27 @@
             }
         },
         {
+            "Key": "c0d2055e-8658-4e71-ad43-9062c97957b2",
+            "Value": {
+                "id": "f120f165-33fd-4273-89d3-c6141e8b3013",
+                "resourcePath": "scripts\\out_of_100\\out_of_100.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c3055983-dd59-4f96-a36b-3fe8d1f07af8",
             "Value": {
                 "id": "ca091c97-62b5-40b7-bf6a-adb9ca3491f4",
                 "resourcePath": "datafiles_yy\\emails.json.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c6988030-32c5-40c3-8982-5b958a708a15",
+            "Value": {
+                "id": "7e1ab2c0-1172-49fc-97ec-ae2be5faac61",
+                "resourcePath": "sounds\\dialup\\dialup.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -372,6 +396,14 @@
                 "id": "8783ef32-3440-4299-9db5-54adaabce0df",
                 "resourcePath": "views\\d695b473-e24d-41d1-a17e-238cd7206845.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d9bd8ff4-2b3d-4009-89b5-bfe7b02bf676",
+            "Value": {
+                "id": "d8bb66bb-d291-46fb-8bf3-e6e8c10a62c0",
+                "resourcePath": "objects\\email_delButton\\email_delButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -456,7 +488,7 @@
         }
     ],
     "script_order": [
-        
+        "c0d2055e-8658-4e71-ad43-9062c97957b2"
     ],
     "tutorial": ""
 }

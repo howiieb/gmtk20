@@ -1,3 +1,5 @@
+randomize();
+
 // Email = id 0
 // Word = id 1
 // Shopping = id 2
@@ -31,4 +33,4 @@ emailsTable = emailsText[? "emails"] // This variable is a list OF maps, each of
 gameEmails = ds_list_create();
 
 // Set alarm
-alarm[0] = 600;
+alarm[0] = 120;

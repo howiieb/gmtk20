@@ -1,5 +1,10 @@
 /// @description Order and show emails
 
+if(ds_list_size(gameManager.gameEmails) > 0){
+	firstEmail = gameManager.gameEmails[| 0];
+}
+
+
 // First email should be at 488, 280
 // Next emails should be 17 pixels down each
 for(i = 0; i < ds_list_size(gameManager.gameEmails); i += 1){
