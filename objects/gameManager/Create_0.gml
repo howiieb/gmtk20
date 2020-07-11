@@ -6,6 +6,10 @@ depth = -100; // So we can draw the blur on top
 
 battery = 100;
 
+emailStreak = 0;
+playerScore = 0;
+playerStrikes = 5;
+
 pcActive = true;
 
 flipCooldown = false; // Stops repeated flips
