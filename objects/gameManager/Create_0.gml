@@ -14,6 +14,8 @@ typeStreak = 0;
 playerScore = 0;
 playerStrikes = 5;
 
+openingEmail = true; // So the first email doesn't trigger a sound
+
 pcActive = true;
 
 flipCooldown = false; // Stops repeated flips
