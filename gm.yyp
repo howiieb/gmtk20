@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "98f3de1b-74c6-41d4-9eec-9dd11617a5db",
+            "Value": {
+                "id": "8fe02301-a8ed-4dae-ac4c-8ce782f344f9",
+                "resourcePath": "sprites\\down_arrow\\down_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9bf2a5b1-c437-4dc1-a335-2fddc188b9ef",
             "Value": {
                 "id": "78136dc0-d8a1-4889-a651-78515d60eec3",
@@ -563,6 +571,14 @@
             "Value": {
                 "id": "b58dfba7-31d7-4e52-8685-624fd66651f6",
                 "resourcePath": "objects\\emailApp\\emailApp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ff75d1bb-f1f5-4ef9-8df9-1ca1b350535f",
+            "Value": {
+                "id": "19459f81-4f19-4abf-af38-5b7f94c3f80d",
+                "resourcePath": "objects\\flipDown\\flipDown.yy",
                 "resourceType": "GMObject"
             }
         }
