@@ -1,18 +1,18 @@
 {
-    "id": "6f29e8dc-11af-4c99-b3a8-d77569f6a8e0",
+    "id": "360f19ed-e3e5-4624-adfb-1c79f7df0dbb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "bg_laptop",
+    "name": "printer_o",
     "eventList": [
         {
-            "id": "831b9f93-d213-4b81-89ab-c7d34a07b568",
+            "id": "ad9d8c6c-d9ae-4909-afd0-addb382eba87",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "6f29e8dc-11af-4c99-b3a8-d77569f6a8e0"
+            "m_owner": "360f19ed-e3e5-4624-adfb-1c79f7df0dbb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ad6383d9-976b-45d8-ae88-89d3fae8b2cc",
+    "spriteId": "f0091dae-2f87-4301-ae63-be73f2e7d9b3",
     "visible": true
 }
