@@ -46,4 +46,4 @@ var paragraphsText = json_decode(paragraphsData);
 paragraphsTable = paragraphsText[? "paragraphs"];
 
 // Set alarm for emails
-alarm[0] = 120;
+alarm[0] = (random(12) + 8) * 60;
