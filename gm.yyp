@@ -335,14 +335,6 @@
             }
         },
         {
-            "Key": "c7ccf56b-3a2f-4c36-9759-64a6343ac027",
-            "Value": {
-                "id": "4beaaf27-71bf-4253-a2ba-1718299b0f4f",
-                "resourcePath": "objects\\newEmail\\newEmail.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "caa4b3fa-d6dc-4dfe-b0a8-cc8fbd684aa0",
             "Value": {
                 "id": "a7b3ff99-8a99-489a-8fc2-511b5ba9177e",

@@ -23,6 +23,9 @@ while (!file_text_eof(emailsJson)){
     file_text_readln(emailsJson);
 }
 file_text_close(emailsJson);
-var emailsList = json_decode(emailsData);
+var emailsText = json_decode(emailsData);
 
-emailsTable = emailsList[? "emails"] // This variable is an array OF maps, each of which has an email
+emailsTable = emailsText[? "emails"] // This variable is a list OF maps, each of which has an email
+
+// Email alarm
+alarm[0] = 60;
