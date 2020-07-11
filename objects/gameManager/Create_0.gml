@@ -31,4 +31,4 @@ emailsTable = emailsText[? "emails"] // This variable is a list OF maps, each of
 gameEmails = ds_list_create();
 
 // Set alarm
-alarm[0] = 600;
+alarm[0] = 120;

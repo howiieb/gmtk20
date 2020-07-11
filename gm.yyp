@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "10c33d42-7f05-4018-bbef-bb1deb98ef78",
+            "Value": {
+                "id": "02dee1f6-d21e-4b61-b734-2aabbb2a7be7",
+                "resourcePath": "objects\\email_actButton\\email_actButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "110807a2-c864-4f1c-ad0c-7398c9e93c2e",
             "Value": {
                 "id": "64397af2-4220-41ad-ac50-b51ad02718c2",
@@ -140,6 +148,14 @@
                 "id": "a25aa899-6c6b-481a-99b6-8d6f5f145077",
                 "resourcePath": "sprites\\lowerEmail\\lowerEmail.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4afc8056-62fc-4ad1-9644-a419da5a7ba4",
+            "Value": {
+                "id": "128417b8-c124-4ee4-b5ec-814901addf52",
+                "resourcePath": "objects\\email_delButton\\email_delButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
