@@ -7,6 +7,8 @@ image_alpha = 0.1; // For the blur
 
 pcActive = true;
 
+flipCooldown = false; // Stops repeated flips
+
 // Setting up taskbar variables
 appOrder = ["email","word","explorer"];
 appsOpen = [false,false,false];
