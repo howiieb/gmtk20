@@ -103,11 +103,27 @@
             }
         },
         {
+            "Key": "36df1681-d88a-4c39-a92b-5b9b64ab27ad",
+            "Value": {
+                "id": "6b7b7af5-e39e-43c1-b0c1-3233f17c31ca",
+                "resourcePath": "views\\36df1681-d88a-4c39-a92b-5b9b64ab27ad.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "52a61a13-68cd-46ff-ae0b-0dd5cdc47700",
             "Value": {
                 "id": "60bea579-2b70-4254-9e1a-4fabd2f2bc1f",
                 "resourcePath": "fonts\\windows98\\windows98.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "55144274-1519-42a7-b37e-bdea64243c3d",
+            "Value": {
+                "id": "bacedf17-b2df-4988-b2c4-4b42e520af63",
+                "resourcePath": "sprites\\emails_app\\emails_app.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
