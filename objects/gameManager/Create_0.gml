@@ -23,7 +23,6 @@ while (!file_text_eof(emailsJson)){
     file_text_readln(emailsJson);
 }
 file_text_close(emailsJson);
-emailsList = json_decode(emailsData);
-emailsTable = emailsList[? "emails"]
-firstEmail = emailsTable[| 1]
-show_debug_message(firstEmail[? "text"]);
+var emailsList = json_decode(emailsData);
+
+emailsTable = emailsList[? "emails"] // This variable is an array OF maps, each of which has an email
