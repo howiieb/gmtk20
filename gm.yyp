@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "52a61a13-68cd-46ff-ae0b-0dd5cdc47700",
+            "Value": {
+                "id": "60bea579-2b70-4254-9e1a-4fabd2f2bc1f",
+                "resourcePath": "fonts\\windows98\\windows98.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "5dc8277c-56ba-41b2-861c-0ca444e2a738",
             "Value": {
                 "id": "03ede242-5694-4172-aa3a-914783d4c28d",
