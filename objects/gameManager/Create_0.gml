@@ -2,7 +2,7 @@
 // Word = id 1
 // Shopping = id 2
 
-// Setting up instance variables
+// Setting up taskbar variables
 appOrder = ["email","word","explorer"];
 appsOpen = [false,false,false];
 appObjects = [];

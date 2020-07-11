@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "c3055983-dd59-4f96-a36b-3fe8d1f07af8",
+            "Value": {
+                "id": "ca091c97-62b5-40b7-bf6a-adb9ca3491f4",
+                "resourcePath": "datafiles_yy\\emails.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "caa4b3fa-d6dc-4dfe-b0a8-cc8fbd684aa0",
             "Value": {
                 "id": "a7b3ff99-8a99-489a-8fc2-511b5ba9177e",
