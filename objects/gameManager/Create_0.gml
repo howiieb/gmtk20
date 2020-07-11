@@ -7,6 +7,10 @@ depth = -100; // So we can draw the blur on top
 battery = 100;
 
 emailStreak = 0;
+
+typeScore = 0;
+typeStreak = 0;
+
 playerScore = 0;
 playerStrikes = 5;
 
@@ -46,5 +50,8 @@ var paragraphsText = json_decode(paragraphsData);
 
 paragraphsTable = paragraphsText[? "paragraphs"];
 
-// Set alarm for emails
-alarm[0] = (random(12) + 8) * 60;
+// Set alarm for emails - always start with an email
+alarm[0] = 1;
+
+// Set alarm for checking on type score
+alarm[1] = 10 * 60;

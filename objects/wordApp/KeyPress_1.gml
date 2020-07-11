@@ -8,3 +8,5 @@ else{
 	typeString += ("\n \n");
 	event_perform(ev_other,ev_user0);
 }
+
+gameManager.typeScore += 1;
