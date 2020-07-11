@@ -1,9 +1,10 @@
 randomize();
 depth = -100; // So we can draw the blur on top
-image_alpha = 0.1; // For the blur
 // Email = id 0
 // Word = id 1
 // Shopping = id 2
+
+battery = 100;
 
 pcActive = true;
 
