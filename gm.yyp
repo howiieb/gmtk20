@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "081e5fdc-0cbd-4151-bcba-167a99c01d71",
+            "Value": {
+                "id": "161bd87d-89e3-4b0f-a3f4-4a356eb303a3",
+                "resourcePath": "sprites\\word_app\\word_app.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0900bbd8-5946-423b-95a7-1716572231a2",
             "Value": {
                 "id": "65d0bbd1-7aab-44b0-8f76-f4c4d7bf1b7f",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "12f46537-7417-4a86-a8c6-56e834f15b14",
+            "Value": {
+                "id": "936b9e36-ff91-4a2f-9260-5709f2d29a06",
+                "resourcePath": "sounds\\music\\music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "16cdcbdc-b665-4278-af56-ca942d6979f7",
             "Value": {
                 "id": "f5ded33e-6527-48c7-a895-dfb793679e23",
@@ -124,6 +140,14 @@
                 "id": "0efe784c-f944-49d6-865e-9d822d456bca",
                 "resourcePath": "views\\235eae03-9933-4dbe-a29e-b90fa48d6490.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "27beaed6-75a0-40c3-b91a-1dc3b4e64765",
+            "Value": {
+                "id": "c9594d6f-a312-49cf-953e-355fa9a5eaac",
+                "resourcePath": "sprites\\smudge\\smudge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "55b65fd5-d05d-4c5f-9d4d-a04aff022dd1",
+            "Value": {
+                "id": "e0d0d2f2-3705-4730-94e2-728bda70842e",
+                "resourcePath": "views\\55b65fd5-d05d-4c5f-9d4d-a04aff022dd1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5dc8277c-56ba-41b2-861c-0ca444e2a738",
             "Value": {
                 "id": "03ede242-5694-4172-aa3a-914783d4c28d",
@@ -196,6 +228,14 @@
                 "id": "d029980d-e9db-4ef4-89f0-4975d407840d",
                 "resourcePath": "views\\6e6ecca5-a43f-4f4b-a438-73da5b6ebd2e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f500f77-3537-438e-9485-c88120b9d987",
+            "Value": {
+                "id": "b4fb5496-19b3-422c-9adc-3db222498cd8",
+                "resourcePath": "datafiles_yy\\paragraphs.json.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {

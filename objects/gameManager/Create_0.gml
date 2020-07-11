@@ -1,5 +1,6 @@
 randomize();
-
+depth = -100;
+image_alpha = 0.1;
 // Email = id 0
 // Word = id 1
 // Shopping = id 2
@@ -27,10 +28,22 @@ while (!file_text_eof(emailsJson)){
 file_text_close(emailsJson);
 var emailsText = json_decode(emailsData);
 
-emailsTable = emailsText[? "emails"] // This variable is a list OF maps, each of which has an email
+emailsTable = emailsText[? "emails"]; // This variable is a list OF maps, each of which has an email
 
 // The list of emails in the current game instance
 gameEmails = ds_list_create();
 
-// Set alarm
-alarm[0] = 120;
+// Import the paragraphs for word processor JSON
+var paragraphsJson = file_text_open_read("paragraphs.json");
+var paragraphsData = "";
+while (!file_text_eof(paragraphsJson)){
+    paragraphsData += file_text_read_string(paragraphsJson);
+    file_text_readln(paragraphsJson);
+}
+file_text_close(paragraphsJson);
+var paragraphsText = json_decode(paragraphsData);
+
+paragraphsTable = paragraphsText[? "paragraphs"];
+
+// Set alarm for emails
+alarm[0] = (random(12) + 8) * 60;
