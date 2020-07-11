@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "360f19ed-e3e5-4624-adfb-1c79f7df0dbb",
+            "Value": {
+                "id": "8c91b161-a346-43fe-9af2-203d837bf681",
+                "resourcePath": "objects\\printer_o\\printer_o.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "36df1681-d88a-4c39-a92b-5b9b64ab27ad",
             "Value": {
                 "id": "6b7b7af5-e39e-43c1-b0c1-3233f17c31ca",
@@ -167,10 +175,34 @@
             }
         },
         {
+            "Key": "388f1313-dde2-4c11-84df-8f52439f9c63",
+            "Value": {
+                "id": "2d133d17-5e74-4ebc-ac55-da85ab2910c4",
+                "resourcePath": "views\\388f1313-dde2-4c11-84df-8f52439f9c63.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "39133db0-2ffe-4727-8438-b52d9e518995",
             "Value": {
                 "id": "a25aa899-6c6b-481a-99b6-8d6f5f145077",
                 "resourcePath": "sprites\\lowerEmail\\lowerEmail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5188e0fa-d111-438c-a948-a60f14d3d101",
+            "Value": {
+                "id": "c30ac954-533a-4dc5-a703-1a6e022c0ed6",
+                "resourcePath": "views\\5188e0fa-d111-438c-a948-a60f14d3d101.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "527c8244-eab8-4c06-9d79-f46a8c5e740a",
+            "Value": {
+                "id": "c8ce7011-afb3-4d55-892e-9391571e855e",
+                "resourcePath": "sprites\\office_bg\\office_bg.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -228,6 +260,14 @@
                 "id": "d029980d-e9db-4ef4-89f0-4975d407840d",
                 "resourcePath": "views\\6e6ecca5-a43f-4f4b-a438-73da5b6ebd2e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f29e8dc-11af-4c99-b3a8-d77569f6a8e0",
+            "Value": {
+                "id": "48747928-9107-4dbc-ab3b-4c152f18a652",
+                "resourcePath": "objects\\bg_laptop\\bg_laptop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -295,6 +335,14 @@
             }
         },
         {
+            "Key": "98f3de1b-74c6-41d4-9eec-9dd11617a5db",
+            "Value": {
+                "id": "8fe02301-a8ed-4dae-ac4c-8ce782f344f9",
+                "resourcePath": "sprites\\down_arrow\\down_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9bf2a5b1-c437-4dc1-a335-2fddc188b9ef",
             "Value": {
                 "id": "78136dc0-d8a1-4889-a651-78515d60eec3",
@@ -356,6 +404,14 @@
                 "id": "265719f7-8f36-4f13-ab31-4ed7098dba89",
                 "resourcePath": "objects\\taskbar_text\\taskbar_text.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ad6383d9-976b-45d8-ae88-89d3fae8b2cc",
+            "Value": {
+                "id": "9e0cc27d-c317-4286-aa85-460b2a7692c5",
+                "resourcePath": "sprites\\laptop\\laptop.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,6 +527,14 @@
             }
         },
         {
+            "Key": "e377b005-3bb7-4c22-a9a6-de18537324dc",
+            "Value": {
+                "id": "ffdaf9cf-7ad5-4475-96c2-317cfdae2cb0",
+                "resourcePath": "views\\e377b005-3bb7-4c22-a9a6-de18537324dc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ece2d0b3-afd1-4d46-bdda-97aefccb92dc",
             "Value": {
                 "id": "a5cc8877-d6db-4186-973b-57ab1d5bc056",
@@ -484,6 +548,14 @@
                 "id": "c23c94f8-e869-4c04-b4bc-d3bef6ec6ec9",
                 "resourcePath": "views\\eda835fb-75c5-45d5-b232-f207d228e561.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0091dae-2f87-4301-ae63-be73f2e7d9b3",
+            "Value": {
+                "id": "5e1465fe-c534-48d0-9b26-b9eeb04b8c76",
+                "resourcePath": "sprites\\printer\\printer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -511,6 +583,14 @@
             }
         },
         {
+            "Key": "f8e43488-a117-4032-a241-4c0ffc3de646",
+            "Value": {
+                "id": "43a76aa5-0f01-48cc-b5a9-998ea641b427",
+                "resourcePath": "objects\\bg_office\\bg_office.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fb96b2a7-e78b-49d2-bee1-10ae4dedc832",
             "Value": {
                 "id": "ede4dafd-157e-415d-9c23-b62951932660",
@@ -523,6 +603,14 @@
             "Value": {
                 "id": "b58dfba7-31d7-4e52-8685-624fd66651f6",
                 "resourcePath": "objects\\emailApp\\emailApp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ff75d1bb-f1f5-4ef9-8df9-1ca1b350535f",
+            "Value": {
+                "id": "19459f81-4f19-4abf-af38-5b7f94c3f80d",
+                "resourcePath": "objects\\flipDown\\flipDown.yy",
                 "resourceType": "GMObject"
             }
         }

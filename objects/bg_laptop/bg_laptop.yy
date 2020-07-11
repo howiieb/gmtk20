@@ -1,28 +1,18 @@
 {
-    "id": "7c48734d-e795-4a76-931b-40d62b6b2c55",
+    "id": "6f29e8dc-11af-4c99-b3a8-d77569f6a8e0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "taskbar_o",
+    "name": "bg_laptop",
     "eventList": [
         {
-            "id": "21131ca5-1c09-4846-b9eb-c4899e1dfecb",
+            "id": "831b9f93-d213-4b81-89ab-c7d34a07b568",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "7c48734d-e795-4a76-931b-40d62b6b2c55"
-        },
-        {
-            "id": "2ae7e3f7-b168-4558-a865-02a73dc5885c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 1,
-            "m_owner": "7c48734d-e795-4a76-931b-40d62b6b2c55"
+            "eventtype": 3,
+            "m_owner": "6f29e8dc-11af-4c99-b3a8-d77569f6a8e0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0d953d42-a0af-4d65-a07c-5ab75dc1093f",
+    "spriteId": "ad6383d9-976b-45d8-ae88-89d3fae8b2cc",
     "visible": true
 }

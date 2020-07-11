@@ -1,28 +1,18 @@
 {
-    "id": "7c48734d-e795-4a76-931b-40d62b6b2c55",
+    "id": "ff75d1bb-f1f5-4ef9-8df9-1ca1b350535f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "taskbar_o",
+    "name": "flipDown",
     "eventList": [
         {
-            "id": "21131ca5-1c09-4846-b9eb-c4899e1dfecb",
+            "id": "acc19432-5142-4676-ad02-6320e18ad39b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "7c48734d-e795-4a76-931b-40d62b6b2c55"
-        },
-        {
-            "id": "2ae7e3f7-b168-4558-a865-02a73dc5885c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 1,
-            "m_owner": "7c48734d-e795-4a76-931b-40d62b6b2c55"
+            "enumb": 10,
+            "eventtype": 6,
+            "m_owner": "ff75d1bb-f1f5-4ef9-8df9-1ca1b350535f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0d953d42-a0af-4d65-a07c-5ab75dc1093f",
+    "spriteId": "98f3de1b-74c6-41d4-9eec-9dd11617a5db",
     "visible": true
 }

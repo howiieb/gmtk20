@@ -1,22 +1,16 @@
 randomize();
-depth = -100;
-image_alpha = 0.1;
+depth = -100; // So we can draw the blur on top
+image_alpha = 0.1; // For the blur
 // Email = id 0
 // Word = id 1
 // Shopping = id 2
+
+pcActive = true;
 
 // Setting up taskbar variables
 appOrder = ["email","word","explorer"];
 appsOpen = [false,false,false];
 appObjects = [];
-
-// Make the new taskbar app, add it to our list of objects, and set its properties
-for(i = 0; i < 3; i += 1){
-	newAppButton = instance_create_depth(512 + (175 * (i)), 715, 0, taskbar_app);
-	appObjects[i] = newAppButton;
-	newAppButton.appId = i;
-	newAppButton.name = appOrder[i];
-}
 
 // Import the email JSON
 var emailsJson = file_text_open_read("emails.json");
