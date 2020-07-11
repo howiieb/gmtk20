@@ -1,0 +1,1 @@
+return ((argument1 / argument0) * 100)
