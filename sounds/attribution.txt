@@ -1,0 +1,5 @@
+laptop: https://freesound.org/people/n_audioman/sounds/318650/
+
+printer: https://freesound.org/people/viertelnachvier/sounds/181420/
+
+room: https://freesound.org/people/joedeshon/sounds/265350/

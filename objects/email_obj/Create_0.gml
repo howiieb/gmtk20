@@ -5,5 +5,7 @@ var this_email = gameManager.emailsTable[| 0];
 // Instance variables
 emailText = this_email[? "text"];
 emailAction = this_email[? "button"];
-emailType = this_email[? "type"];
 emailSpam = this_email[? "spam"];
+
+// Set alarm for checking on type score
+alarm[1] = 10 * 60;
