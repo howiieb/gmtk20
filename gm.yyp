@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "527c8244-eab8-4c06-9d79-f46a8c5e740a",
+            "Value": {
+                "id": "c8ce7011-afb3-4d55-892e-9391571e855e",
+                "resourcePath": "sprites\\office_bg\\office_bg.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52a61a13-68cd-46ff-ae0b-0dd5cdc47700",
             "Value": {
                 "id": "60bea579-2b70-4254-9e1a-4fabd2f2bc1f",
@@ -228,6 +236,14 @@
                 "id": "d029980d-e9db-4ef4-89f0-4975d407840d",
                 "resourcePath": "views\\6e6ecca5-a43f-4f4b-a438-73da5b6ebd2e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f29e8dc-11af-4c99-b3a8-d77569f6a8e0",
+            "Value": {
+                "id": "48747928-9107-4dbc-ab3b-4c152f18a652",
+                "resourcePath": "objects\\bg_laptop\\bg_laptop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "ad6383d9-976b-45d8-ae88-89d3fae8b2cc",
+            "Value": {
+                "id": "9e0cc27d-c317-4286-aa85-460b2a7692c5",
+                "resourcePath": "sprites\\laptop\\laptop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b2f88b45-1d3a-428e-b460-e4991d56df4e",
             "Value": {
                 "id": "cebdbc74-cf38-4fb6-b683-a858aa693e0d",
@@ -471,6 +495,14 @@
             }
         },
         {
+            "Key": "e377b005-3bb7-4c22-a9a6-de18537324dc",
+            "Value": {
+                "id": "ffdaf9cf-7ad5-4475-96c2-317cfdae2cb0",
+                "resourcePath": "views\\e377b005-3bb7-4c22-a9a6-de18537324dc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ece2d0b3-afd1-4d46-bdda-97aefccb92dc",
             "Value": {
                 "id": "a5cc8877-d6db-4186-973b-57ab1d5bc056",
@@ -508,6 +540,14 @@
                 "id": "d4fd026f-318a-4fa5-9005-72119e2fc995",
                 "resourcePath": "sprites\\email\\email.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f8e43488-a117-4032-a241-4c0ffc3de646",
+            "Value": {
+                "id": "43a76aa5-0f01-48cc-b5a9-998ea641b427",
+                "resourcePath": "objects\\bg_office\\bg_office.yy",
+                "resourceType": "GMObject"
             }
         },
         {

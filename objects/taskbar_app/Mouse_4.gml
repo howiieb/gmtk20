@@ -21,12 +21,12 @@ for(i = 0; i < 3; i += 1){
 
 switch (appId){
 	case 0:
-		instance_create_depth(384,160,-1,emailApp);
+		instance_create_depth(appX,appY,-1,emailApp);
 		break;
 	case 1:
-		instance_create_depth(384,160,-1,wordApp);
+		instance_create_depth(appX,appY,-1,wordApp);
 		break;
 	case 2:
-		instance_create_depth(384,160,-1,internetApp);
+		instance_create_depth(appX,appY,-1,internetApp);
 		break;		
 }

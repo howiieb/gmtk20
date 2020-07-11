@@ -1,19 +1,10 @@
 {
-    "id": "7c48734d-e795-4a76-931b-40d62b6b2c55",
+    "id": "f8e43488-a117-4032-a241-4c0ffc3de646",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "taskbar_o",
+    "name": "bg_office",
     "eventList": [
-        {
-            "id": "21131ca5-1c09-4846-b9eb-c4899e1dfecb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "7c48734d-e795-4a76-931b-40d62b6b2c55"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0d953d42-a0af-4d65-a07c-5ab75dc1093f",
+    "spriteId": "527c8244-eab8-4c06-9d79-f46a8c5e740a",
     "visible": true
 }
