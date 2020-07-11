@@ -151,14 +151,6 @@
             }
         },
         {
-            "Key": "4afc8056-62fc-4ad1-9644-a419da5a7ba4",
-            "Value": {
-                "id": "128417b8-c124-4ee4-b5ec-814901addf52",
-                "resourcePath": "objects\\email_delButton\\email_delButton.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "52a61a13-68cd-46ff-ae0b-0dd5cdc47700",
             "Value": {
                 "id": "60bea579-2b70-4254-9e1a-4fabd2f2bc1f",
@@ -351,6 +343,14 @@
             }
         },
         {
+            "Key": "c6988030-32c5-40c3-8982-5b958a708a15",
+            "Value": {
+                "id": "7e1ab2c0-1172-49fc-97ec-ae2be5faac61",
+                "resourcePath": "sounds\\dialup\\dialup.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "caa4b3fa-d6dc-4dfe-b0a8-cc8fbd684aa0",
             "Value": {
                 "id": "a7b3ff99-8a99-489a-8fc2-511b5ba9177e",
@@ -388,6 +388,14 @@
                 "id": "8783ef32-3440-4299-9db5-54adaabce0df",
                 "resourcePath": "views\\d695b473-e24d-41d1-a17e-238cd7206845.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d9bd8ff4-2b3d-4009-89b5-bfe7b02bf676",
+            "Value": {
+                "id": "d8bb66bb-d291-46fb-8bf3-e6e8c10a62c0",
+                "resourcePath": "objects\\email_delButton\\email_delButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
