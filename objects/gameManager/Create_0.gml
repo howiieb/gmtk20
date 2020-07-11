@@ -27,5 +27,8 @@ var emailsText = json_decode(emailsData);
 
 emailsTable = emailsText[? "emails"] // This variable is a list OF maps, each of which has an email
 
-// Email alarm
-alarm[0] = 60;
+// The list of emails in the current game instance
+gameEmails = ds_list_create();
+
+// Set alarm
+alarm[0] = 600;
