@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "110807a2-c864-4f1c-ad0c-7398c9e93c2e",
+            "Value": {
+                "id": "64397af2-4220-41ad-ac50-b51ad02718c2",
+                "resourcePath": "sprites\\topEmail\\topEmail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "124d9cf3-a8d2-4595-b45d-194bddcf71a5",
+            "Value": {
+                "id": "bb097d03-7678-4159-9ecb-961b7d8fc024",
+                "resourcePath": "objects\\wordApp\\wordApp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16cdcbdc-b665-4278-af56-ca942d6979f7",
             "Value": {
                 "id": "f5ded33e-6527-48c7-a895-dfb793679e23",
@@ -103,6 +119,46 @@
             }
         },
         {
+            "Key": "287064de-382b-428e-9afd-b4bb4f288859",
+            "Value": {
+                "id": "ecbb8e77-9d12-48fd-b17d-5135510a15ed",
+                "resourcePath": "objects\\internetApp\\internetApp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "36df1681-d88a-4c39-a92b-5b9b64ab27ad",
+            "Value": {
+                "id": "6b7b7af5-e39e-43c1-b0c1-3233f17c31ca",
+                "resourcePath": "views\\36df1681-d88a-4c39-a92b-5b9b64ab27ad.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "39133db0-2ffe-4727-8438-b52d9e518995",
+            "Value": {
+                "id": "a25aa899-6c6b-481a-99b6-8d6f5f145077",
+                "resourcePath": "sprites\\lowerEmail\\lowerEmail.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52a61a13-68cd-46ff-ae0b-0dd5cdc47700",
+            "Value": {
+                "id": "60bea579-2b70-4254-9e1a-4fabd2f2bc1f",
+                "resourcePath": "fonts\\windows98\\windows98.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "55144274-1519-42a7-b37e-bdea64243c3d",
+            "Value": {
+                "id": "bacedf17-b2df-4988-b2c4-4b42e520af63",
+                "resourcePath": "sprites\\emails_app\\emails_app.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5dc8277c-56ba-41b2-861c-0ca444e2a738",
             "Value": {
                 "id": "03ede242-5694-4172-aa3a-914783d4c28d",
@@ -123,6 +179,14 @@
             "Value": {
                 "id": "994fb244-c6f8-4b35-9c95-238b95b12518",
                 "resourcePath": "views\\683ad770-8ff1-4b08-95fe-d1b0dcce1892.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e6ecca5-a43f-4f4b-a438-73da5b6ebd2e",
+            "Value": {
+                "id": "d029980d-e9db-4ef4-89f0-4975d407840d",
+                "resourcePath": "views\\6e6ecca5-a43f-4f4b-a438-73da5b6ebd2e.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -159,6 +223,14 @@
             }
         },
         {
+            "Key": "7fa5c454-4e49-4b75-9fcf-d9f3073140ee",
+            "Value": {
+                "id": "d69c4513-5c64-46c3-9c53-d9632196190b",
+                "resourcePath": "views\\7fa5c454-4e49-4b75-9fcf-d9f3073140ee.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "81555189-6bf8-4aea-a199-749f33dc2bb2",
             "Value": {
                 "id": "5f87a4e2-a246-4b39-9c4e-806ddfbe0dd1",
@@ -188,6 +260,14 @@
                 "id": "45507556-a0a3-4448-80b6-1731ac036eb2",
                 "resourcePath": "sprites\\explorer\\explorer.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9fe0519a-2024-47c7-9cdb-fb10bea2688d",
+            "Value": {
+                "id": "79b5b93a-08f8-494f-b25a-8f09647ed101",
+                "resourcePath": "objects\\email_obj\\email_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -247,6 +327,14 @@
             }
         },
         {
+            "Key": "c3055983-dd59-4f96-a36b-3fe8d1f07af8",
+            "Value": {
+                "id": "ca091c97-62b5-40b7-bf6a-adb9ca3491f4",
+                "resourcePath": "datafiles_yy\\emails.json.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "caa4b3fa-d6dc-4dfe-b0a8-cc8fbd684aa0",
             "Value": {
                 "id": "a7b3ff99-8a99-489a-8fc2-511b5ba9177e",
@@ -260,6 +348,22 @@
                 "id": "49e45bef-0c6e-4491-a5ee-1c40831ba2d5",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d52dfcf6-5bdf-4888-b97a-03fabb105b8f",
+            "Value": {
+                "id": "f79d148d-56ca-4147-b497-eb8c2d0d25dc",
+                "resourcePath": "views\\d52dfcf6-5bdf-4888-b97a-03fabb105b8f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d5c52528-437e-4ff7-a5dc-45855b34cebf",
+            "Value": {
+                "id": "ee22f7e5-5c1b-4f29-8231-8c8216c94020",
+                "resourcePath": "views\\d5c52528-437e-4ff7-a5dc-45855b34cebf.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -340,6 +444,14 @@
                 "id": "ede4dafd-157e-415d-9c23-b62951932660",
                 "resourcePath": "views\\fb96b2a7-e78b-49d2-bee1-10ae4dedc832.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff5a7bd7-cd92-4716-afbd-2c5fd77b670b",
+            "Value": {
+                "id": "b58dfba7-31d7-4e52-8685-624fd66651f6",
+                "resourcePath": "objects\\emailApp\\emailApp.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
