@@ -25,3 +25,5 @@ event_perform_object(emailApp, ev_other, ev_user0);
 // Unlock button
 locked = false;
 email_delButton.locked = false;
+
+audio_sound_gain(dotmatrix,0,1);

@@ -55,3 +55,11 @@ alarm[0] = 1;
 
 // Set alarm for checking on type score
 alarm[1] = 10 * 60;
+
+
+audio_play_sound(music, 1, 1);
+audio_play_sound(dotmatrix, 1, 1);
+audio_play_sound(room_noise, 1, 1);
+
+audio_sound_gain(dotmatrix, 0, 1);
+audio_sound_gain(room_noise, 0, 1);
