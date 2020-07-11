@@ -16,15 +16,14 @@ for(i = 0; i < 3; i += 1){
 }
 
 // Import the email JSON
-var emailsJson = file_text_open_read("emails");
+var emailsJson = file_text_open_read("emails.json");
 var emailsData = "";
-while (!file_text_eof(emailsJson))
-{
+while (!file_text_eof(emailsJson)){
     emailsData += file_text_read_string(emailsJson);
     file_text_readln(emailsJson);
 }
 file_text_close(emailsJson);
-
 emailsList = json_decode(emailsData);
-show_debug_message("Bazinga");
-show_debug_message(emailsList);
+emailsTable = emailsList[? "emails"]
+firstEmail = emailsTable[| 1]
+show_debug_message(firstEmail[? "text"]);

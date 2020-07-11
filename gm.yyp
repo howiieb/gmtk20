@@ -274,7 +274,7 @@
             "Key": "c3055983-dd59-4f96-a36b-3fe8d1f07af8",
             "Value": {
                 "id": "ca091c97-62b5-40b7-bf6a-adb9ca3491f4",
-                "resourcePath": "datafiles_yy\\emails.yy",
+                "resourcePath": "datafiles_yy\\emails.json.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
