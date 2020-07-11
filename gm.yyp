@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "95557928-ceb2-4600-91aa-299e7e0a7e8e",
+            "Value": {
+                "id": "0e9e86ee-295d-4670-a518-dd4519028938",
+                "resourcePath": "sprites\\printer_all\\printer_all.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "98f3de1b-74c6-41d4-9eec-9dd11617a5db",
             "Value": {
                 "id": "8fe02301-a8ed-4dae-ac4c-8ce782f344f9",
