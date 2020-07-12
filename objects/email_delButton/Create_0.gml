@@ -1,5 +1,4 @@
 // Starts at 712
-
-visible = false;
+buttonActive = false;
 locked = false;
 timer = 60 * 1;

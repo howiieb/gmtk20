@@ -14,5 +14,5 @@ if(alarm_get(0) > 0){
 draw_set_colour(c_red);
 
 if(printError){
-	draw_text_ext(480,512,"PRINTER ERROR",-1,500);
+	draw_text(520,650,"PRINTER ERROR");
 }
