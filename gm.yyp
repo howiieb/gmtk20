@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "4d7e8bcc-aa7e-4094-a128-1e3f2a71c4a4",
+            "Value": {
+                "id": "1ff701bb-3870-4d1e-ae07-61bf648ad3ee",
+                "resourcePath": "sprites\\laptop_flip\\laptop_flip.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5188e0fa-d111-438c-a948-a60f14d3d101",
             "Value": {
                 "id": "c30ac954-533a-4dc5-a703-1a6e022c0ed6",
@@ -547,6 +555,14 @@
             "Value": {
                 "id": "bbf0c532-c8f1-459a-8eec-7c71a81804fd",
                 "resourcePath": "objects\\taskbar_app\\taskbar_app.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "baaca64d-2b35-41ee-8455-9fd7b9363e48",
+            "Value": {
+                "id": "53e0d34b-4e7f-4f26-9ee2-b22325b92c7a",
+                "resourcePath": "objects\\laptopFlipping\\laptopFlipping.yy",
                 "resourceType": "GMObject"
             }
         },
