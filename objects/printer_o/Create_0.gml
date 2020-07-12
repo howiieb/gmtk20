@@ -12,4 +12,7 @@ paper_jam_incoming=0;
 paper_jam=0;
 paper_jam_chance=0;
 paper_jam_alert=0;
+paper_jam_alert_2=0;
+print_order=false;
 out_of_ink=0;
+print_start=false;
