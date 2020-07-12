@@ -10,24 +10,54 @@ draw_sprite_ext(printer_all,4,x,y,image_xscale,image_yscale,image_angle,image_bl
 draw_sprite_ext(printer_all,5,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 draw_sprite_ext(printer_all,2,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 draw_sprite_ext(printer_all,paper_side,x,y+print_y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);//printing paper
+
+
 draw_sprite_ext(printer_all,0,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 if printer_open==1
 {
 draw_sprite_ext(printer_all,1,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 }
+draw_sprite_ext(printer_all,paper_jam_alert_2,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 draw_sprite_ext(printer_all,paper_jam_alert,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
+
+
+draw_sprite_ext(ink_carts,0,x-500,y,1,1,image_angle,image_blend,image_alpha);//ink carts
+
 
 
 //printing
 
-
-if paper_jam==1||out_of_ink==1//if you're out of ink or have a paper jam, the red light shows
+if print_start
 {
-paper_jam_alert=6;//animation frame of the alert button, these are the subimg's
+print_start=false;
+event_perform_object(printer_o,ev_other,ev_user1);
 }
-else{
-paper_jam_alert=7;	
+
+
+
+
+
+
+
+
+if out_of_ink==1
+{
+paper_jam_alert_2=12;
+paper_jam_alert=6;
 }
+if out_of_ink==0&&paper_jam==0//ok
+{
+paper_jam_alert_2=10;
+paper_jam_alert=7;
+}
+
+if paper_jam==1
+{
+paper_jam_alert_2=11;	
+paper_jam_alert=6;
+}
+
+
 
 
 
@@ -91,6 +121,7 @@ if printing==1//when printing
 	print_forward=0;	
 	printer_free=1;
 	ink_level--; //minus one level of ink
+	print_order=false;
 	}
 }
 
