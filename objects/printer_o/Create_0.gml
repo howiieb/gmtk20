@@ -16,3 +16,7 @@ paper_jam_alert_2=0;
 print_order = false;
 out_of_ink=0;
 print_start = false;
+ink_x=0
+ink_y=0;
+ink_seq=0;
+loading=0;

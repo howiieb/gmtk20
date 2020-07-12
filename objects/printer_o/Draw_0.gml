@@ -15,13 +15,28 @@ draw_sprite_ext(printer_all,paper_side,x,y+print_y,image_xscale,image_yscale,ima
 draw_sprite_ext(printer_all,0,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 if printer_open
 {
+	if !paper_jam
+	{
 draw_sprite_ext(printer_all,1,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
+	}
+	else
+	{
+draw_sprite_ext(printer_all,13,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
+	}
+
+
 }
 draw_sprite_ext(printer_all,paper_jam_alert_2,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 draw_sprite_ext(printer_all,paper_jam_alert,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 
 
-draw_sprite_ext(ink_carts,0,x-500,y,1,1,image_angle,image_blend,image_alpha);//ink carts
+
+draw_sprite_ext(ink_carts,2,x-500,y+170,1,1,image_angle,image_blend,image_alpha);//ink carts
+
+
+draw_sprite_ext(ink_carts,1,x-500+ink_x,y+170+ink_y,1,1,image_angle,image_blend,image_alpha);//ink carts
+
+draw_sprite_ext(ink_carts,0,x-500,y+170,1,1,image_angle,image_blend,image_alpha);//ink carts
 
 
 
@@ -34,6 +49,37 @@ event_perform_object(printer_o,ev_other,ev_user1);
 }
 
 
+
+
+if ink_seq==1
+{
+	if ink_x<=500
+	{
+if ink_y>=-200
+{
+ink_y-=15;	
+}
+if ink_y<=-200
+{
+ink_x+=15;	
+}
+
+	}
+	else{
+	ink_y+=20;
+	if ink_y>=-130
+	{
+		ink_x=0;
+		ink_y=0;
+	ink_seq=0;
+	out_of_ink=0;
+	ink_level=ink_level_max;
+	}
+	}
+	
+}
+//out_of_ink=0;
+	//ink_level=ink_level_max;
 
 
 

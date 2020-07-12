@@ -255,6 +255,22 @@
             }
         },
         {
+            "Key": "59504e48-46f1-4d9c-a520-fa00159e2a31",
+            "Value": {
+                "id": "e1e5e596-929b-4033-8bdd-31e8eb098a66",
+                "resourcePath": "sprites\\office_flicker\\office_flicker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5b73da87-81c2-49ae-b719-02ef2e556a23",
+            "Value": {
+                "id": "93fccd6a-711d-41a5-a13f-f0503b940d9d",
+                "resourcePath": "objects\\bg_flicker\\bg_flicker.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5dc8277c-56ba-41b2-861c-0ca444e2a738",
             "Value": {
                 "id": "03ede242-5694-4172-aa3a-914783d4c28d",
