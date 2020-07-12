@@ -5,7 +5,7 @@ appId = 0;
 name = "";
 appX = 400;
 appY = 150;
-appsList = [emailApp, wordApp, internetApp]
+appsList = [emailApp, wordApp]
 // Make the text sprite
 with(instance_create_depth(x,y,-2,taskbar_text)){
 	parent = other.id;

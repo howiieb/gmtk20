@@ -4,6 +4,8 @@ depth = -100; // So we can draw the blur on top
 // Word = id 1
 // Shopping = id 2
 
+musicActive = false;
+
 battery = 100;
 
 emailStreak = 0;
@@ -59,9 +61,3 @@ alarm[0] = 1;
 alarm[1] = 10 * 60;
 
 
-audio_play_sound(music, 1, 1);
-audio_play_sound(dotmatrix, 1, 1);
-audio_play_sound(room_noise, 1, 1);
-
-audio_sound_gain(dotmatrix, 0, 1);
-audio_sound_gain(room_noise, 0, 1);

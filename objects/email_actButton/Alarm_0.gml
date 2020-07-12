@@ -5,12 +5,18 @@ firstEmail = gameManager.gameEmails[| 0];
 switch(firstEmail.emailSpam){
 	case "0":
 		gameManager.emailStreak += 1;
-		show_debug_message("Correct use of email");
 		gameManager.playerScore += gameManager.emailStreak * 1000;
 		break;
 	case "1":
 		gameManager.emailStreak = 0;
-		show_debug_message("Incorrect");
+		if(instance_exists(taskbar_o)){
+			instance_create_depth(1010,588,-5,error_bubble);
+			error_bubble.text = "What did I tell you about those scam emails?";
+		}
+		else{
+			instance_create_depth(1400,777,-5,error_bubble);
+			error_bubble.text = "What did I tell you about those scam emails?";
+		}
 		gameManager.playerStrikes -= 1;
 		break;
 	case "2":

@@ -10,11 +10,17 @@ switch(firstEmail.emailSpam){
 		break;
 	case "0":
 		gameManager.emailStreak = 0;
-		show_debug_message("Incorrect");
+		if(instance_exists(taskbar_o)){
+			instance_create_depth(1010,588,-5,error_bubble);
+			error_bubble.text = "Did you just delete my email??";
+		}
+		else{
+			instance_create_depth(1400,777,-5,error_bubble);
+			error_bubble.text = "Did you just delete my email??";
+		}
 		gameManager.playerStrikes -= 1;
 		break;
 	case "2":
-		show_debug_message("Easter egg email - valid regardless");
 		gameManager.playerScore += gameManager.emailStreak * 1000;
 }
 
