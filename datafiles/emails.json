@@ -88,7 +88,7 @@
 	  "id": "12",
 	  "button": "WOOPADO I DO",
       "spam": "1",
-	  "sender": "Bean Computer (legit)",
+	  "sender": "Bean Computer",
       "text": "CONGRATULATIONS! You're our 1st customer! You've won a free laptop! We were planning to give it away to our 1,000th customer, but for some reason we've not received any responses in over a year. All you have to do is reply to this e-mail with the words 'WOOPADOO I DO AS THE WINNERS DO' and we'll process your prize right away!"
 	},
 	{
@@ -102,7 +102,7 @@
 	  "id": "14",
 	  "button": "Print entry",
       "spam": "1",
-	  "sender": "Wallace's Cheese Factory",
+	  "sender": "Wallace's Cheese",
       "text": "SAY CHEESE! You've been entered into the 1997 cheese raffle! The winner of the prize draw will win a lifetime supply of cheese! You call yourself a cheese lover? For only 5 cheese bucks a ticket you could up your chances to win a lifetime supply of cheese!"
 	},
 	{
