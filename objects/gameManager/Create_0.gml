@@ -4,6 +4,8 @@ depth = -100; // So we can draw the blur on top
 // Word = id 1
 // Shopping = id 2
 
+draw_set_halign(fa_left);
+
 gameActive = true;
 
 musicActive = false;
