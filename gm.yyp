@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "93c31fc3-930c-4797-a5e3-8fa2fae19747",
+            "Value": {
+                "id": "4a15e931-833c-48ba-b5a5-265f326669ec",
+                "resourcePath": "sprites\\gameover\\gameover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95557928-ceb2-4600-91aa-299e7e0a7e8e",
             "Value": {
                 "id": "0e9e86ee-295d-4670-a518-dd4519028938",

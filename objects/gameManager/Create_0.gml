@@ -4,6 +4,8 @@ depth = -100; // So we can draw the blur on top
 // Word = id 1
 // Shopping = id 2
 
+gameActive = true;
+
 musicActive = false;
 
 battery = 100;
