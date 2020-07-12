@@ -13,7 +13,7 @@ draw_sprite_ext(printer_all,paper_side,x,y+print_y,image_xscale,image_yscale,ima
 
 
 draw_sprite_ext(printer_all,0,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
-if printer_open==1
+if printer_open
 {
 draw_sprite_ext(printer_all,1,x,y,image_xscale,image_yscale,image_angle,image_blend,image_alpha);
 }
@@ -61,7 +61,7 @@ paper_jam_alert=6;
 
 
 
-if printing==1//when printing
+if printing//when printing
 {
 	print_time++;
 	if print_time>=80
@@ -84,7 +84,7 @@ if printing==1//when printing
 	{
 		if paper_jam_incoming==1//the moment the paper jams
 		{
-			printing=0;
+			printing=false;
 			paper_jam=1;
 			print_forward=0;
 			paper_jam_incoming=0;
@@ -117,9 +117,9 @@ if printing==1//when printing
 		paper_side=2;
 		print_speed=4;
 		print_y=0;
-		printing=0;
+		printing=false;
 	print_forward=0;	
-	printer_free=1;
+	printer_free=true;
 	ink_level--; //minus one level of ink
 	print_order=false;
 	}

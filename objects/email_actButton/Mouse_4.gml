@@ -4,9 +4,8 @@ if(!locked){
 	locked = true;
 	email_delButton.locked = true;
 	printer_o.	print_order=true;
-with(printer_o){
+	with(printer_o){
 	
-    event_perform(ev_other,ev_user1);
-}
-
+	    event_perform(ev_other,ev_user1);
+	}
 }
