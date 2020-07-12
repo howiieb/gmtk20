@@ -8,5 +8,11 @@ if(emailApp.firstEmail != ""){
 }
 
 if(alarm_get(0) > 0){
-	draw_healthbar(900, 645, 1120, 670, out_of_100(timer,alarm_get(0)), c_black, c_navy, c_navy, 0, true, true)
+	draw_healthbar(900, 645, 1120, 670, out_of_100(timer,alarm_get(0)), c_black, c_blue, c_blue, 0, true, true)
+}
+
+draw_set_colour(c_red);
+
+if(printError){
+	draw_text_ext(480,512,"PRINTER ERROR",-1,500);
 }

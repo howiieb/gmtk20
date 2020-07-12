@@ -8,5 +8,5 @@ if(emailApp.firstEmail != ""){
 }
 
 if(alarm_get(0) > 0){
-	draw_healthbar(900, 645, 1120, 670, out_of_100(timer,alarm_get(0)), c_black, c_red, c_lime, 0, true, true)
+	draw_healthbar(900, 645, 1120, 670, out_of_100(timer,alarm_get(0)), c_black, c_blue, c_blue, 0, true, true)
 }
