@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0c808256-eee1-4468-9cb9-d64d629ff383",
+            "Value": {
+                "id": "9d71b2b5-0bcd-4eed-b3ae-9fc15a348ec1",
+                "resourcePath": "sprites\\printer_eject_circle\\printer_eject_circle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c9cd1f9-616a-4ed0-bc7e-a4cf5c05f876",
             "Value": {
                 "id": "7988226c-6c88-48f3-bf96-2131d4d70bc1",
@@ -167,6 +175,22 @@
             }
         },
         {
+            "Key": "284f6d1b-69c0-4b18-b35f-33e174b72df7",
+            "Value": {
+                "id": "37b34efc-7ab6-4175-a08d-cedfa87934c6",
+                "resourcePath": "fonts\\largePrint\\largePrint.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "3455556b-84e3-45e4-9cf4-fcbca3931990",
+            "Value": {
+                "id": "65f661db-6221-4949-9b80-029e9118dbd7",
+                "resourcePath": "sprites\\printer_paper_circle\\printer_paper_circle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "360f19ed-e3e5-4624-adfb-1c79f7df0dbb",
             "Value": {
                 "id": "8c91b161-a346-43fe-9af2-203d837bf681",
@@ -212,6 +236,14 @@
                 "id": "cf6ce107-c876-444d-b36c-360f8b0a9f5a",
                 "resourcePath": "sounds\\laptop_open\\laptop_open.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4d7e8bcc-aa7e-4094-a128-1e3f2a71c4a4",
+            "Value": {
+                "id": "1ff701bb-3870-4d1e-ae07-61bf648ad3ee",
+                "resourcePath": "sprites\\laptop_flip\\laptop_flip.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -356,6 +388,14 @@
                 "id": "eac0be86-2eae-4a03-9a27-2ff4b55ea3c5",
                 "resourcePath": "views\\895dde52-12cb-4b6c-a3e9-66a5dcc7dd77.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c7642f8-e44f-412c-a2fd-b61fa29d6520",
+            "Value": {
+                "id": "07e33a82-810b-4916-b287-004ef031795b",
+                "resourcePath": "objects\\gameOverScreen\\gameOverScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -515,6 +555,14 @@
             "Value": {
                 "id": "bbf0c532-c8f1-459a-8eec-7c71a81804fd",
                 "resourcePath": "objects\\taskbar_app\\taskbar_app.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "baaca64d-2b35-41ee-8455-9fd7b9363e48",
+            "Value": {
+                "id": "53e0d34b-4e7f-4f26-9ee2-b22325b92c7a",
+                "resourcePath": "objects\\laptopFlipping\\laptopFlipping.yy",
                 "resourceType": "GMObject"
             }
         },
