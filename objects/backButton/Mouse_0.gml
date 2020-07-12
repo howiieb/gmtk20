@@ -1,2 +1,2 @@
 audio_stop_all();
-room_goto(0);
+room_goto_previous();

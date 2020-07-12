@@ -239,6 +239,22 @@
             }
         },
         {
+            "Key": "471308da-648d-4a01-80f5-5f2b3ceb11bb",
+            "Value": {
+                "id": "4c195617-6ba2-4c39-b818-bea5c9a2e681",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "47b3740f-8c92-47f6-a68a-e7cab0af04b5",
+            "Value": {
+                "id": "d07c2627-0114-43b7-9a14-c644f08bc2f4",
+                "resourcePath": "sprites\\splash\\splash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4d7e8bcc-aa7e-4094-a128-1e3f2a71c4a4",
             "Value": {
                 "id": "1ff701bb-3870-4d1e-ae07-61bf648ad3ee",
@@ -412,6 +428,14 @@
                 "id": "5f87a4e2-a246-4b39-9c4e-806ddfbe0dd1",
                 "resourcePath": "views\\81555189-6bf8-4aea-a199-749f33dc2bb2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8346b504-bf60-4902-b33e-265b892d3968",
+            "Value": {
+                "id": "20373abc-a53c-4bcc-be5b-a074546f7e71",
+                "resourcePath": "objects\\splashManager\\splashManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
