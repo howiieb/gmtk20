@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "287064de-382b-428e-9afd-b4bb4f288859",
-            "Value": {
-                "id": "ecbb8e77-9d12-48fd-b17d-5135510a15ed",
-                "resourcePath": "objects\\internetApp\\internetApp.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "360f19ed-e3e5-4624-adfb-1c79f7df0dbb",
             "Value": {
                 "id": "8c91b161-a346-43fe-9af2-203d837bf681",
@@ -220,14 +212,6 @@
                 "id": "cf6ce107-c876-444d-b36c-360f8b0a9f5a",
                 "resourcePath": "sounds\\laptop_open\\laptop_open.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "43b32d26-a893-460d-85c9-24e3d15106f7",
-            "Value": {
-                "id": "b9c9315a-2c6c-4c5e-9d54-ca71d81e3fd8",
-                "resourcePath": "objects\\dummy\\dummy.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -327,6 +311,14 @@
             }
         },
         {
+            "Key": "7a9a2f00-fce4-4f98-beb7-67731b56e45b",
+            "Value": {
+                "id": "6d2064ac-524f-4637-8f37-238962add88c",
+                "resourcePath": "sprites\\bubble\\bubble.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c48734d-e795-4a76-931b-40d62b6b2c55",
             "Value": {
                 "id": "e6e7e336-2b3b-4420-b2c5-56fb2873e62f",
@@ -351,14 +343,6 @@
             }
         },
         {
-            "Key": "7fa5c454-4e49-4b75-9fcf-d9f3073140ee",
-            "Value": {
-                "id": "d69c4513-5c64-46c3-9c53-d9632196190b",
-                "resourcePath": "views\\7fa5c454-4e49-4b75-9fcf-d9f3073140ee.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "81555189-6bf8-4aea-a199-749f33dc2bb2",
             "Value": {
                 "id": "5f87a4e2-a246-4b39-9c4e-806ddfbe0dd1",
@@ -372,6 +356,14 @@
                 "id": "eac0be86-2eae-4a03-9a27-2ff4b55ea3c5",
                 "resourcePath": "views\\895dde52-12cb-4b6c-a3e9-66a5dcc7dd77.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93c31fc3-930c-4797-a5e3-8fa2fae19747",
+            "Value": {
+                "id": "4a15e931-833c-48ba-b5a5-265f326669ec",
+                "resourcePath": "sprites\\gameover\\gameover.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -411,6 +403,14 @@
             "Value": {
                 "id": "79b5b93a-08f8-494f-b25a-8f09647ed101",
                 "resourcePath": "objects\\email_obj\\email_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0dab7d9-2d86-4743-8ce6-73476eca9227",
+            "Value": {
+                "id": "ccb0b46a-9538-40fd-bfed-392fd50ff4fa",
+                "resourcePath": "objects\\error_bubble\\error_bubble.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -484,6 +484,14 @@
                 "id": "cebdbc74-cf38-4fb6-b683-a858aa693e0d",
                 "resourcePath": "objects\\gameManager\\gameManager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b381a397-a779-41c5-9a98-a16d4e91a0cd",
+            "Value": {
+                "id": "0a7392dc-1be9-4fe9-a1cb-cba9446bfff8",
+                "resourcePath": "sounds\\balloon\\balloon.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -628,6 +636,14 @@
                 "id": "cf6c6f60-7b70-4657-a6fa-21da8afea367",
                 "resourcePath": "sounds\\new_email\\new_email.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "eb186315-e54b-4ae2-805c-c215a2e2fe6b",
+            "Value": {
+                "id": "734d857c-2b17-4b88-9294-17bb61f9bee3",
+                "resourcePath": "sprites\\emailIcon\\emailIcon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

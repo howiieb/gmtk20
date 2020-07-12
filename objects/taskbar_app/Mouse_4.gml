@@ -1,5 +1,5 @@
 // Go through the list of whether apps are open, and set them appropiately
-for(i = 0; i < 3; i += 1){
+for(i = 0; i < 2; i += 1){
 	if(i == appId){
 		gameManager.appsOpen[i] = true;
 	}

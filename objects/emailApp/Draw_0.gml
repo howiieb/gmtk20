@@ -3,4 +3,4 @@ draw_self()
 // Draw the latest email
 draw_set_colour(c_black);
 draw_set_font(windows98);
-draw_text_ext(510, 520, renderText, 14, 600);
+draw_text_ext(510, 520, renderText, 16, 600);

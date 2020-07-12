@@ -5,3 +5,7 @@ if(gameManager.appsOpen[appId]){
 else{
 	draw_sprite(taskbut_unpressed,0,x,y);
 }
+
+if(ds_list_size(gameManager.gameEmails) > 0){
+	draw_sprite(emailIcon,0,655,716);
+}

@@ -1,8 +1,8 @@
 /// @description Switch apps
 // Close all other apps
-appsList = [emailApp, wordApp, internetApp]
+appsList = [emailApp, wordApp]
 
-for(i = 0; i < 3; i += 1){
+for(i = 0; i < 2; i += 1){
 	if(i != appId){
 		if(instance_exists(appsList[i])){
 			instance_destroy(appsList[i]);
@@ -16,8 +16,5 @@ switch (appId){
 		break;
 	case 1:
 		instance_create_depth(appX,appY,-1,wordApp);
-		break;
-	case 2:
-		instance_create_depth(appX,appY,-1,internetApp);
-		break;		
+		break;	
 }
