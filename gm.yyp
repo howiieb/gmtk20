@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "eb186315-e54b-4ae2-805c-c215a2e2fe6b",
+            "Value": {
+                "id": "734d857c-2b17-4b88-9294-17bb61f9bee3",
+                "resourcePath": "sprites\\emailIcon\\emailIcon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ece2d0b3-afd1-4d46-bdda-97aefccb92dc",
             "Value": {
                 "id": "a5cc8877-d6db-4186-973b-57ab1d5bc056",
