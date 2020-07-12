@@ -2,27 +2,122 @@
   "emails": [
     {
       "id": "0",
-      "button": "Print",
+      "button": "Print document",
       "spam": "0",
+	  "sender": "Karen Beer",
       "text": "Oh my god! So yesterday my hamster got out of its cage and I thought I had lost it forever! We had to search around the ENTIRE house! At two in the morning we heard it behind the sofa eating some cheese puffs we must have dropped back there. Anyway, can you print this document for me?"
     },
     {
       "id": "1",
-      "button": "Schedule meeting",
+      "button": "Print minutes",
       "spam": "0",
+	  "sender": "Jasper Burroughs",
       "text": "Hi there, it's your boss here. As you will all know, my two year old son drew a stunning picture of a spider yesterday. I'm incredibly proud of it, and am scheduling a meeting in order to show all of you. Please RSVP."
     },
     {
       "id": "2",
       "button": "Back on Patreon",
       "spam": "2",
-      "text": "Whenever a designer makes a game, they will have certain ideas for what would be the most enjoyable or interesting way for a player to approach things. For example, Jake Solomon reckons that XCOM is at its best when the player is taking risks. He told Rock Paper Shotgun: \"Risks are what lead to loss and what lead to triumph\". But players will often have other ideas, because many will simply gravitate towards strategies."
+	  "sender": "Mark Brown",
+      "text": "I'm working on a new video. Let me know if you like my opening paragraph: \n Whenever a designer makes a game, they will have certain ideas for what would be the most enjoyable or interesting way for a player to approach things. For example, Jake Solomon reckons that XCOM is at its best when the player is taking risks. He told Rock Paper Shotgun: \"Risks are what lead to loss and what lead to triumph\". But players will often have other ideas, because many will simply gravitate towards strategies."
     },
     {
       "id": "3",
+	  "button": "Print invoice",
       "spam": "1",
-      "button": "Pay fee",
-      "text": "Greetings my esteemed individual. I am from the Combined Trust fund of the Kingdom of Nigeria. I am going to die and have decided to entrust my wealth with you, so that you may do good things while I am departed from this world. I can pay you the 10 million dollars of wealth I have accumulated if you pay the processing fee for the transaction. Be quick about it! Thanks."
-    }
+	  "sender": "John Barosa",
+      "text": "Greetings my esteemed individual. I am from the Combined Trust fund of the Kingdom of Ratstravia. I am going to die and have decided to entrust my wealth with you, so that you may do good things while I am departed from this world. I can pay you the 10 million dollars of wealth I have accumulated if you pay the processing fee for the transaction. Be quick about it! Thanks."
+    },
+    {
+      "id": "4",
+	  "button": "Print invoice",
+      "spam": "0",
+	  "sender": "Kat Jones",
+      "text": "Hello, It's Jane's last day at the office today so I'm collecting goodbye messages from people. If there's anything you'd like to say, print off a copy and stick it in my mail-box so I can pass it over before she leaves! I'll be passing them over without checking, so try to keep it PC. Thanks!"
+    },
+	{
+      "id": "5",
+	  "button": "Print document",
+      "spam": "0",
+	  "sender": "Keith Harrison",
+      "text": "I'm sorry to inform you that we've received multiple complaints at HR regarding you not properly returning pens once borrowed. There are several accounts stating that the pens have returned chewed, snapped or covered in raspberry jam. We're going to have to ask you for a statement regarding this issue so we can build the case. If you could write up a statement and send us a printed copy I'm sure that we can resolve this issue quickly."
+    },
+	{
+      "id": "6",
+	  "button": "Print ticket",
+      "spam": "0",
+	  "sender": "Ben Trundle",
+      "text": "Sorry to be a pain, but the printer over here has stopped working. Probably a paper jam or something... I'm supposed to be going to a stage showing of 'Randy Randy's Raunchy Ranch' tonight but I've forgotten to print off my ticket... There's a spare ticket under my name if you want to come along? Anyway... Thanks in advance."
+    },
+	{
+      "id": "7",
+	  "button": "Print answer",
+      "spam": "0",
+	  "sender": "Edward Chum",
+      "text": "This is a bit embarrassing, but I was wondering if you knew what the 'e' in 'e-mail' stands for? Me and James were having a debate by the water-cooler and both figured that you'd be the person to ask. See, James believes that the 'e' stands for 'ephemeromorph' as mail can't be classified as an animal or vegetable. Where as I believe that the 'e' is short for 'eeee!' which is the sound that people make when they receive an exciting package in the mail. Would you be able to spread some light on our debate?"
+    },
+	{
+	  "id": "8",
+	  "button": "Print excuse",
+      "spam": "0",
+	  "sender": "Harriet Humble",
+      "text": "I'm out of office this afternoon, wondered if you'd be cool with feeding the sea monkeys on my desk as you're in the same office. It's a pretty easy task as I've already cooked up the sirloin steak, all you'd have to do is pop over there and drop it in the tank. It'll take them a while to eat it (They've got small mouths!) but they'll manage it I'm sure. I should also mention that there's a second steak on my desk actually, except it's laced with rat poison... Whatever you do don't feed them the rat poison one."
+    },
+	{
+	  "id": "9",
+	  "button": "Print excuse",
+      "spam": "0",
+	  "sender": "George Smith",
+      "text": "I don't want to look too accusatory, but did you eat my lunch? The tuppa is still in the fridge but it's completely empty. I only ask because there was a literal breadcrumb trail leading up to your desk. If it wasn't you, my apologies! But if it was, could I have it back?"	  
+	},
+	{
+	  "id": "10",
+	  "button": "Plan rescue",
+      "spam": "0",
+	  "sender": "Kenny Boldergate",
+      "text": "Help, I've fallen and I can't get up! Send help immediately."
+	},
+	{
+	  "id": "11",
+	  "button": "Print certificate",
+      "spam": "0",
+	  "sender": "Ivan Hunter",
+      "text": "This is the manager of the office writing to inform you that the building is currently on fire. The fire alarms aren't working, so I'm sending out this chain e-mail to all staff members instead. Please, remain calm and leave the building immediately. Then, print this commemorative certificate to celebrate your hastiness at abiding to fire protocols."
+	},
+	{
+	  "id": "12",
+	  "button": "WOOPADO I DO",
+      "spam": "1",
+	  "sender": "Bean Computer (legit)",
+      "text": "CONGRATULATIONS! You're our 1st customer! You've won a free laptop! We were planning to give it away to our 1,000th customer, but for some reason we've not received any responses in over a year. All you have to do is reply to this e-mail with the words 'WOOPADOO I DO AS THE WINNERS DO' and we'll process your prize right away!"
+	},
+	{
+	  "id": "13",
+	  "button": "Print leaflets",
+      "spam": "1",
+	  "sender": "The Cult",
+      "text": "COME JOIN OUR CULT! Have you ever wanted to be in a cult? If the answer is yes, then boy do we have a great offer for you. In our cult, there's no subscription fee or mandatory sacrifice! Join today and get a FREE cult cloak, fitted with an ominous glowing crystal! CALL 0800-CULT today!"
+	},
+	{
+	  "id": "14",
+	  "button": "Print entry",
+      "spam": "1",
+	  "sender": "Wallace's Cheese Factory",
+      "text": "SAY CHEESE! You've been entered into the 1997 cheese raffle! The winner of the prize draw will win a lifetime supply of cheese! You call yourself a cheese lover? For only 5 cheese bucks a ticket you could up your chances to win a lifetime supply of cheese!"
+	},
+	{
+	  "id": "15",
+	  "button": "Print entry",
+      "spam": "1",
+	  "sender": "Hardwood Ladders",
+      "text": "TROUBLE GETTING UP? Here at Hardwood Ladders we craft the finest ladders in the business! Finding it hard to paint the ceiling? Is it difficult to reach that pesky bee's nest in an effort to harvest it's sweet sweet honey? NEVER AGAIN! With a Hardwood Hard Wood Ladder, the sky is the limit! Sign up now to get 10% of your first purchase, but hurry! The offer end's today!"
+	},
+	{
+	  "id": "16",
+	  "button": "Print entry",
+      "spam": "1",
+	  "sender": "Mom",
+      "text": "HELP! I've lost my e-mail account, can I have yours? Just send me your e-mail and password so that I can send a photo of my kids to your grandmother? I promise that I'll give it back once I'm finished with it?"
+	}
   ]
 }
