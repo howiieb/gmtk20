@@ -575,14 +575,6 @@
             }
         },
         {
-            "Key": "ad6383d9-976b-45d8-ae88-89d3fae8b2cc",
-            "Value": {
-                "id": "9e0cc27d-c317-4286-aa85-460b2a7692c5",
-                "resourcePath": "sprites\\laptop\\laptop.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b2f88b45-1d3a-428e-b460-e4991d56df4e",
             "Value": {
                 "id": "cebdbc74-cf38-4fb6-b683-a858aa693e0d",
@@ -636,14 +628,6 @@
                 "id": "ca091c97-62b5-40b7-bf6a-adb9ca3491f4",
                 "resourcePath": "datafiles_yy\\emails.json.yy",
                 "resourceType": "GMIncludedFile"
-            }
-        },
-        {
-            "Key": "c6988030-32c5-40c3-8982-5b958a708a15",
-            "Value": {
-                "id": "7e1ab2c0-1172-49fc-97ec-ae2be5faac61",
-                "resourcePath": "sounds\\dialup\\dialup.yy",
-                "resourceType": "GMSound"
             }
         },
         {
