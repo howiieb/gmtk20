@@ -1,10 +1,10 @@
 print_y=0;
-printer_open=0;
+printer_open = false;
 ink_level_max=5;
 ink_level=ink_level_max;
-printer_free=1;
+printer_free = true;
 print_speed=4;
-printing=0;
+printing = false;
 print_time=0;
 print_forward=0;
 paper_side=2;

@@ -207,6 +207,30 @@
             }
         },
         {
+            "Key": "3acfe401-60a0-4b0d-a768-477a95785af4",
+            "Value": {
+                "id": "b0a6e7bd-44a0-4a42-8815-f9449bc9b5d6",
+                "resourcePath": "sounds\\click\\click.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3ce79eaa-b1c6-40d2-ad7f-d2112c6e166f",
+            "Value": {
+                "id": "cf6ce107-c876-444d-b36c-360f8b0a9f5a",
+                "resourcePath": "sounds\\laptop_open\\laptop_open.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "43b32d26-a893-460d-85c9-24e3d15106f7",
+            "Value": {
+                "id": "b9c9315a-2c6c-4c5e-9d54-ca71d81e3fd8",
+                "resourcePath": "objects\\dummy\\dummy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5188e0fa-d111-438c-a948-a60f14d3d101",
             "Value": {
                 "id": "c30ac954-533a-4dc5-a703-1a6e022c0ed6",
@@ -391,11 +415,27 @@
             }
         },
         {
+            "Key": "a16b7bdb-24d8-4235-a754-eacb8ce9324c",
+            "Value": {
+                "id": "bbcca4b1-7b20-4ada-935b-904d05b88314",
+                "resourcePath": "sounds\\dotmatrix\\dotmatrix.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a4e37ced-1b26-4d6f-b7ff-16d345434fb9",
             "Value": {
                 "id": "7b8e4364-fd65-454f-a9b4-6b36e6350989",
                 "resourcePath": "views\\a4e37ced-1b26-4d6f-b7ff-16d345434fb9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a51e4809-c3c5-4afa-a16a-40040523046e",
+            "Value": {
+                "id": "6b3ffaba-babb-4094-8da4-6c4f5400d7b6",
+                "resourcePath": "sounds\\laptop_close\\laptop_close.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -452,6 +492,14 @@
                 "id": "bbf0c532-c8f1-459a-8eec-7c71a81804fd",
                 "resourcePath": "objects\\taskbar_app\\taskbar_app.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c01652d6-189f-4562-b723-a2d7c9507443",
+            "Value": {
+                "id": "ee8de279-19a9-48e0-af5a-92b0d980f43c",
+                "resourcePath": "sounds\\room_noise\\room_noise.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -535,6 +583,14 @@
             }
         },
         {
+            "Key": "daefb620-5c95-4520-b4e0-86e655ea99d6",
+            "Value": {
+                "id": "1f50f287-20a8-45a0-86f7-51604a385867",
+                "resourcePath": "objects\\button_clickable\\button_clickable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de1fc48b-ebbf-472a-862a-f9cb802656e2",
             "Value": {
                 "id": "4ed77a0e-6694-4e32-b2b3-dd1c6f492b00",
@@ -564,6 +620,14 @@
                 "id": "ffdaf9cf-7ad5-4475-96c2-317cfdae2cb0",
                 "resourcePath": "views\\e377b005-3bb7-4c22-a9a6-de18537324dc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eacc8b5e-d9a8-44d6-8338-ad2d2f622320",
+            "Value": {
+                "id": "cf6c6f60-7b70-4657-a6fa-21da8afea367",
+                "resourcePath": "sounds\\new_email\\new_email.yy",
+                "resourceType": "GMSound"
             }
         },
         {
