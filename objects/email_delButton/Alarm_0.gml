@@ -5,7 +5,6 @@ firstEmail = gameManager.gameEmails[| 0];
 switch(firstEmail.emailSpam){
 	case "1":
 		gameManager.emailStreak += 1;
-		show_debug_message("Correct use of email");
 		gameManager.playerScore += gameManager.emailStreak * 1000;
 		break;
 	case "0":

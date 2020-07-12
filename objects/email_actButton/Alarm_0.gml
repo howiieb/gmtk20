@@ -20,7 +20,6 @@ switch(firstEmail.emailSpam){
 		gameManager.playerStrikes -= 1;
 		break;
 	case "2":
-		show_debug_message("Easter egg email - valid regardless");
 		gameManager.playerScore += gameManager.emailStreak * 1000;
 }
 
