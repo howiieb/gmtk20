@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "8c7642f8-e44f-412c-a2fd-b61fa29d6520",
+            "Value": {
+                "id": "07e33a82-810b-4916-b287-004ef031795b",
+                "resourcePath": "objects\\gameOverScreen\\gameOverScreen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "93c31fc3-930c-4797-a5e3-8fa2fae19747",
             "Value": {
                 "id": "4a15e931-833c-48ba-b5a5-265f326669ec",
