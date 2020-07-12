@@ -1,10 +1,11 @@
-if(gameActive && playerStrikes = 0){
+if(gameActive && playerStrikes == 0){
 	instance_create_depth(0,0,-200,gameOverScreen);
 	gameActive = false;
 }
 
 
 if(gameActive){
+	playerScore += 1;
 	if(pcActive){
 		if(battery > 0){
 			battery -= 5 / 60;

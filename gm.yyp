@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "284f6d1b-69c0-4b18-b35f-33e174b72df7",
+            "Value": {
+                "id": "37b34efc-7ab6-4175-a08d-cedfa87934c6",
+                "resourcePath": "fonts\\largePrint\\largePrint.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "360f19ed-e3e5-4624-adfb-1c79f7df0dbb",
             "Value": {
                 "id": "8c91b161-a346-43fe-9af2-203d837bf681",

@@ -1,0 +1,1 @@
+playerStrikes = 0;
