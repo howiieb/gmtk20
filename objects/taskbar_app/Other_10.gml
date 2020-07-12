@@ -2,7 +2,7 @@
 // Close all other apps
 appsList = [emailApp, wordApp]
 
-for(i = 0; i < 3; i += 1){
+for(i = 0; i < 2; i += 1){
 	if(i != appId){
 		if(instance_exists(appsList[i])){
 			instance_destroy(appsList[i]);
